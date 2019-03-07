@@ -1,0 +1,78 @@
+ResultDirs ==>                	lts/new_traces	
+
+LONG_MOBILE-1       	       0.176 	
+LONG_MOBILE-4       	       0.005 	
+SHORT_MOBILE-25     	       0.002 	
+SHORT_MOBILE-2      	       3.618 	
+SHORT_MOBILE-4      	       5.160 	
+LONG_MOBILE-2       	       0.819 	
+SHORT_MOBILE-1      	       0.893 	
+SHORT_MOBILE-27     	       0.063 	
+SHORT_MOBILE-30     	       2.390 	
+LONG_MOBILE-3       	       7.270 	
+SHORT_MOBILE-24     	       0.001 	
+SHORT_MOBILE-28     	       0.008 	
+SHORT_MOBILE-3      	       1.526 	
+
+AMEAN               	       1.687 	
+
+
+timer=20
+ResultDirs ==>                	lts/new_traces	
+
+LONG_MOBILE-1       	       0.051 	
+LONG_MOBILE-4       	       0.005 	
+SHORT_MOBILE-25     	       0.002 	
+SHORT_MOBILE-2      	       0.665 	
+SHORT_MOBILE-4      	       4.706 	
+LONG_MOBILE-2       	       0.263 	
+SHORT_MOBILE-1      	       0.860 	
+SHORT_MOBILE-27     	       0.086 	
+SHORT_MOBILE-30     	       0.347 	
+LONG_MOBILE-3       	       7.009 	
+SHORT_MOBILE-24     	       0.001 	
+SHORT_MOBILE-28     	       0.009 	
+SHORT_MOBILE-3      	       0.630 	
+
+AMEAN               	       1.126 
+
+
+timer=30
+ResultDirs ==>                	lts/new_traces	
+
+LONG_MOBILE-1       	       0.049 	
+LONG_MOBILE-4       	       0.005 	
+SHORT_MOBILE-25     	       0.002 	
+SHORT_MOBILE-2      	       0.752 	
+SHORT_MOBILE-4      	       4.696 	
+LONG_MOBILE-2       	       0.262 	
+SHORT_MOBILE-1      	       0.857 	
+SHORT_MOBILE-27     	       0.072 	
+SHORT_MOBILE-30     	       0.320 	
+LONG_MOBILE-3       	       6.861 	
+SHORT_MOBILE-24     	       0.001 	
+SHORT_MOBILE-28     	       0.008 	
+SHORT_MOBILE-3      	       0.673 	
+
+AMEAN               	       1.120 
+
+
+
+timer=25
+ResultDirs ==>                	lts/new_traces	
+
+LONG_MOBILE-1       	       0.050 	
+LONG_MOBILE-4       	       0.005 	
+SHORT_MOBILE-25     	       0.002 	
+SHORT_MOBILE-2      	       0.718 	
+SHORT_MOBILE-4      	       4.689 	
+LONG_MOBILE-2       	       0.255 	
+SHORT_MOBILE-1      	       0.845 	
+SHORT_MOBILE-27     	       0.063 	
+SHORT_MOBILE-30     	       0.320 	
+LONG_MOBILE-3       	       6.876 	
+SHORT_MOBILE-24     	       0.001 	
+SHORT_MOBILE-28     	       0.008 	
+SHORT_MOBILE-3      	       0.647 	
+
+AMEAN               	       1.114 	
